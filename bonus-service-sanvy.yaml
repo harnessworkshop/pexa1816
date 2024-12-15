@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1 kind: Component
+metadata:
+  name: pexa1816 
+  description: Pipeline component created 
+  annotations:
+    backstage.io/techdocs-ref: dir:../
+  tags:
+    - sanvy 
+spec:
+  type: service
+  owner: pexa 
+  lifecycle: experimental
